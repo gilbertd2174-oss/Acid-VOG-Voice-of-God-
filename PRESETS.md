@@ -1,0 +1,260 @@
+# 256 Factory Patches
+
+Sixteen banks of 16. The original 128 patches retain their positions.
+
+- 001 / Classic / Copper Circuit
+- 002 / Classic / Night Runner
+- 003 / Classic / Liquid Steps
+- 004 / Classic / Silver Machine
+- 005 / Classic / Rubber Floor
+- 006 / Classic / Neon Wire
+- 007 / Classic / Amber Current
+- 008 / Classic / Velvet Voltage
+- 009 / Classic / Reactor
+- 010 / Classic / Tape Spiral
+- 011 / Classic / Chrome Shuffle
+- 012 / Classic / Glass Switch
+- 013 / Classic / Deep Basement
+- 014 / Classic / Resonant Orbit
+- 015 / Classic / Slow Mercury
+- 016 / Classic / Final Transmission
+- 017 / Pulse / Copper Circuit
+- 018 / Pulse / Night Runner
+- 019 / Pulse / Liquid Steps
+- 020 / Pulse / Silver Machine
+- 021 / Pulse / Rubber Floor
+- 022 / Pulse / Neon Wire
+- 023 / Pulse / Amber Current
+- 024 / Pulse / Velvet Voltage
+- 025 / Pulse / Reactor
+- 026 / Pulse / Tape Spiral
+- 027 / Pulse / Chrome Shuffle
+- 028 / Pulse / Glass Switch
+- 029 / Pulse / Deep Basement
+- 030 / Pulse / Resonant Orbit
+- 031 / Pulse / Slow Mercury
+- 032 / Pulse / Final Transmission
+- 033 / Grit / Copper Circuit
+- 034 / Grit / Night Runner
+- 035 / Grit / Liquid Steps
+- 036 / Grit / Silver Machine
+- 037 / Grit / Rubber Floor
+- 038 / Grit / Neon Wire
+- 039 / Grit / Amber Current
+- 040 / Grit / Velvet Voltage
+- 041 / Grit / Reactor
+- 042 / Grit / Tape Spiral
+- 043 / Grit / Chrome Shuffle
+- 044 / Grit / Glass Switch
+- 045 / Grit / Deep Basement
+- 046 / Grit / Resonant Orbit
+- 047 / Grit / Slow Mercury
+- 048 / Grit / Final Transmission
+- 049 / Dub / Copper Circuit
+- 050 / Dub / Night Runner
+- 051 / Dub / Liquid Steps
+- 052 / Dub / Silver Machine
+- 053 / Dub / Rubber Floor
+- 054 / Dub / Neon Wire
+- 055 / Dub / Amber Current
+- 056 / Dub / Velvet Voltage
+- 057 / Dub / Reactor
+- 058 / Dub / Tape Spiral
+- 059 / Dub / Chrome Shuffle
+- 060 / Dub / Glass Switch
+- 061 / Dub / Deep Basement
+- 062 / Dub / Resonant Orbit
+- 063 / Dub / Slow Mercury
+- 064 / Dub / Final Transmission
+- 065 / Glide / Copper Circuit
+- 066 / Glide / Night Runner
+- 067 / Glide / Liquid Steps
+- 068 / Glide / Silver Machine
+- 069 / Glide / Rubber Floor
+- 070 / Glide / Neon Wire
+- 071 / Glide / Amber Current
+- 072 / Glide / Velvet Voltage
+- 073 / Glide / Reactor
+- 074 / Glide / Tape Spiral
+- 075 / Glide / Chrome Shuffle
+- 076 / Glide / Glass Switch
+- 077 / Glide / Deep Basement
+- 078 / Glide / Resonant Orbit
+- 079 / Glide / Slow Mercury
+- 080 / Glide / Final Transmission
+- 081 / Hypnotic / Copper Circuit
+- 082 / Hypnotic / Night Runner
+- 083 / Hypnotic / Liquid Steps
+- 084 / Hypnotic / Silver Machine
+- 085 / Hypnotic / Rubber Floor
+- 086 / Hypnotic / Neon Wire
+- 087 / Hypnotic / Amber Current
+- 088 / Hypnotic / Velvet Voltage
+- 089 / Hypnotic / Reactor
+- 090 / Hypnotic / Tape Spiral
+- 091 / Hypnotic / Chrome Shuffle
+- 092 / Hypnotic / Glass Switch
+- 093 / Hypnotic / Deep Basement
+- 094 / Hypnotic / Resonant Orbit
+- 095 / Hypnotic / Slow Mercury
+- 096 / Hypnotic / Final Transmission
+- 097 / Atmosphere / Copper Circuit
+- 098 / Atmosphere / Night Runner
+- 099 / Atmosphere / Liquid Steps
+- 100 / Atmosphere / Silver Machine
+- 101 / Atmosphere / Rubber Floor
+- 102 / Atmosphere / Neon Wire
+- 103 / Atmosphere / Amber Current
+- 104 / Atmosphere / Velvet Voltage
+- 105 / Atmosphere / Reactor
+- 106 / Atmosphere / Tape Spiral
+- 107 / Atmosphere / Chrome Shuffle
+- 108 / Atmosphere / Glass Switch
+- 109 / Atmosphere / Deep Basement
+- 110 / Atmosphere / Resonant Orbit
+- 111 / Atmosphere / Slow Mercury
+- 112 / Atmosphere / Final Transmission
+- 113 / Hard Rave / Copper Circuit
+- 114 / Hard Rave / Night Runner
+- 115 / Hard Rave / Liquid Steps
+- 116 / Hard Rave / Silver Machine
+- 117 / Hard Rave / Rubber Floor
+- 118 / Hard Rave / Neon Wire
+- 119 / Hard Rave / Amber Current
+- 120 / Hard Rave / Velvet Voltage
+- 121 / Hard Rave / Reactor
+- 122 / Hard Rave / Tape Spiral
+- 123 / Hard Rave / Chrome Shuffle
+- 124 / Hard Rave / Glass Switch
+- 125 / Hard Rave / Deep Basement
+- 126 / Hard Rave / Resonant Orbit
+- 127 / Hard Rave / Slow Mercury
+- 128 / Hard Rave / Final Transmission
+- 129 / Deep Sub / Undercurrent
+- 130 / Deep Sub / Nightfall
+- 131 / Deep Sub / Voltage Drop
+- 132 / Deep Sub / Copper Rain
+- 133 / Deep Sub / Pulse Bloom
+- 134 / Deep Sub / Magnetic Field
+- 135 / Deep Sub / Dust Signal
+- 136 / Deep Sub / Glass Tunnel
+- 137 / Deep Sub / Subterranean
+- 138 / Deep Sub / Circuit Storm
+- 139 / Deep Sub / Distant Lights
+- 140 / Deep Sub / Static Garden
+- 141 / Deep Sub / Reactor Core
+- 142 / Deep Sub / Liquid Chrome
+- 143 / Deep Sub / Afterglow
+- 144 / Deep Sub / Final Orbit
+- 145 / Pluck / Undercurrent
+- 146 / Pluck / Nightfall
+- 147 / Pluck / Voltage Drop
+- 148 / Pluck / Copper Rain
+- 149 / Pluck / Pulse Bloom
+- 150 / Pluck / Magnetic Field
+- 151 / Pluck / Dust Signal
+- 152 / Pluck / Glass Tunnel
+- 153 / Pluck / Subterranean
+- 154 / Pluck / Circuit Storm
+- 155 / Pluck / Distant Lights
+- 156 / Pluck / Static Garden
+- 157 / Pluck / Reactor Core
+- 158 / Pluck / Liquid Chrome
+- 159 / Pluck / Afterglow
+- 160 / Pluck / Final Orbit
+- 161 / Metallic / Undercurrent
+- 162 / Metallic / Nightfall
+- 163 / Metallic / Voltage Drop
+- 164 / Metallic / Copper Rain
+- 165 / Metallic / Pulse Bloom
+- 166 / Metallic / Magnetic Field
+- 167 / Metallic / Dust Signal
+- 168 / Metallic / Glass Tunnel
+- 169 / Metallic / Subterranean
+- 170 / Metallic / Circuit Storm
+- 171 / Metallic / Distant Lights
+- 172 / Metallic / Static Garden
+- 173 / Metallic / Reactor Core
+- 174 / Metallic / Liquid Chrome
+- 175 / Metallic / Afterglow
+- 176 / Metallic / Final Orbit
+- 177 / Space / Undercurrent
+- 178 / Space / Nightfall
+- 179 / Space / Voltage Drop
+- 180 / Space / Copper Rain
+- 181 / Space / Pulse Bloom
+- 182 / Space / Magnetic Field
+- 183 / Space / Dust Signal
+- 184 / Space / Glass Tunnel
+- 185 / Space / Subterranean
+- 186 / Space / Circuit Storm
+- 187 / Space / Distant Lights
+- 188 / Space / Static Garden
+- 189 / Space / Reactor Core
+- 190 / Space / Liquid Chrome
+- 191 / Space / Afterglow
+- 192 / Space / Final Orbit
+- 193 / Echo Motion / Undercurrent
+- 194 / Echo Motion / Nightfall
+- 195 / Echo Motion / Voltage Drop
+- 196 / Echo Motion / Copper Rain
+- 197 / Echo Motion / Pulse Bloom
+- 198 / Echo Motion / Magnetic Field
+- 199 / Echo Motion / Dust Signal
+- 200 / Echo Motion / Glass Tunnel
+- 201 / Echo Motion / Subterranean
+- 202 / Echo Motion / Circuit Storm
+- 203 / Echo Motion / Distant Lights
+- 204 / Echo Motion / Static Garden
+- 205 / Echo Motion / Reactor Core
+- 206 / Echo Motion / Liquid Chrome
+- 207 / Echo Motion / Afterglow
+- 208 / Echo Motion / Final Orbit
+- 209 / Minimal / Undercurrent
+- 210 / Minimal / Nightfall
+- 211 / Minimal / Voltage Drop
+- 212 / Minimal / Copper Rain
+- 213 / Minimal / Pulse Bloom
+- 214 / Minimal / Magnetic Field
+- 215 / Minimal / Dust Signal
+- 216 / Minimal / Glass Tunnel
+- 217 / Minimal / Subterranean
+- 218 / Minimal / Circuit Storm
+- 219 / Minimal / Distant Lights
+- 220 / Minimal / Static Garden
+- 221 / Minimal / Reactor Core
+- 222 / Minimal / Liquid Chrome
+- 223 / Minimal / Afterglow
+- 224 / Minimal / Final Orbit
+- 225 / Slow Burn / Undercurrent
+- 226 / Slow Burn / Nightfall
+- 227 / Slow Burn / Voltage Drop
+- 228 / Slow Burn / Copper Rain
+- 229 / Slow Burn / Pulse Bloom
+- 230 / Slow Burn / Magnetic Field
+- 231 / Slow Burn / Dust Signal
+- 232 / Slow Burn / Glass Tunnel
+- 233 / Slow Burn / Subterranean
+- 234 / Slow Burn / Circuit Storm
+- 235 / Slow Burn / Distant Lights
+- 236 / Slow Burn / Static Garden
+- 237 / Slow Burn / Reactor Core
+- 238 / Slow Burn / Liquid Chrome
+- 239 / Slow Burn / Afterglow
+- 240 / Slow Burn / Final Orbit
+- 241 / Peak Time / Undercurrent
+- 242 / Peak Time / Nightfall
+- 243 / Peak Time / Voltage Drop
+- 244 / Peak Time / Copper Rain
+- 245 / Peak Time / Pulse Bloom
+- 246 / Peak Time / Magnetic Field
+- 247 / Peak Time / Dust Signal
+- 248 / Peak Time / Glass Tunnel
+- 249 / Peak Time / Subterranean
+- 250 / Peak Time / Circuit Storm
+- 251 / Peak Time / Distant Lights
+- 252 / Peak Time / Static Garden
+- 253 / Peak Time / Reactor Core
+- 254 / Peak Time / Liquid Chrome
+- 255 / Peak Time / Afterglow
+- 256 / Peak Time / Final Orbit

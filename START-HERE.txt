@@ -1,0 +1,17 @@
+ACID VOG — 256 PRESETS / 16 PATTERN SLOTS
+
+This ZIP contains source code. Build it on GitHub to produce the Windows plugin.
+1. Make a new GitHub repository named Acid-VOG.
+2. Upload Acid-VOG-v1.0.8-Stability.zip intact to the root. Commit.
+3. Create .github/workflows/main.yml.
+4. Paste all text from Acid-VOG-v1.0.8-main.yml. Commit.
+5. Actions -> Acid VOG Windows Build -> wait for the build.
+6. When green, download the Acid-VOG-Windows-x64-v1.0.8 artifact.
+7. Extract the download and any inner ZIP.
+8. Copy Acid VOG.vst3 into C:\Program Files\Common Files\VST3.
+9. Restart/rescan your DAW; load Acid VOG as an instrument.
+10. Select a scene and press START / ARM. In DAW transport clock mode also start the DAW transport.
+
+Read README.md for pattern editing, slide, accent, vibrato, clock modes and MIDI export.
+
+STABILITY UPDATE 1.0.8: Replace the old ZIP and workflow in your existing repository. The build includes a long-running audio stress test, so allow extra time. After green, close the DAW and replace the old VST3 bundle. Confirm the plugin header shows 1.0.8 STABILITY UPDATE. Test quietly using patch 001 first. The exact screaming failure has not been reproduced here; this is a source mitigation requiring Windows build and audio verification.
