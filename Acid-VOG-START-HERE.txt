@@ -1,0 +1,15 @@
+ACID VOG — 128 PRESETS / 16 PATTERN SLOTS
+
+This ZIP contains source code. Build it on GitHub to produce the Windows plugin.
+1. Make a new GitHub repository named Acid-VOG.
+2. Upload Acid-VOG-GitHub-Ready.zip intact to the root. Commit.
+3. Create .github/workflows/main.yml.
+4. Paste all text from Acid-VOG-main.yml. Commit.
+5. Actions -> Acid VOG Windows Build -> wait for the build.
+6. When green, download the Acid-VOG-Windows-x64 artifact.
+7. Extract the download and any inner ZIP.
+8. Copy Acid VOG.vst3 into C:\Program Files\Common Files\VST3.
+9. Restart/rescan your DAW; load Acid VOG as an instrument.
+10. Select a scene and press START / ARM. In DAW transport clock mode also start the DAW transport.
+
+Read README.md for pattern editing, slide, accent, vibrato, clock modes and MIDI export.
